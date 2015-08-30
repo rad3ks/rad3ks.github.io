@@ -80,4 +80,4 @@ Then you will see a list of your commits and you can choose what to do with them
 
 Now we have a nice `master` branch with a new feature on it.
 
-You can reach me on Twitter [@rad3ks](https://twitter.com/rad3ks). I'
+You can reach me on Twitter [@rad3ks](https://twitter.com/rad3ks).
